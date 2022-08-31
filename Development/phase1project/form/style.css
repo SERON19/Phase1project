@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("pexels-thisisengineering-3913025.jpg");
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.form-box{
+    width: 500px;
+background: rgb(20, 111, 202);  
+margin: 30% auto;  
+padding: 120px 0;
+color: #ffffff;
+box-shadow: 0 0 20px 20px rgba(0,0,0,0.5);
+}
+h1{
+    text-align: center;
+}
+.input-box{
+    margin: 31px auto;
+    width: 80%;
+    border-bottom: 3px solid #fff;
+background: transparent;
+    padding-top: 10px; 
+    padding-bottom: 5pzx;
+}
+ ::placeholder{
+    color:rgb(204, 204, 204) ;
+}
